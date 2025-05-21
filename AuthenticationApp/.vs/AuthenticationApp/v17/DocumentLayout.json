@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\studentPortal\\AuthenticationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0703A548-270E-49C4-A8F0-608CCA25C367}|AuthenticationApp\\AuthenticationApp.csproj|d:\\studentportal\\authenticationapp\\authenticationapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0703A548-270E-49C4-A8F0-608CCA25C367}|AuthenticationApp\\AuthenticationApp.csproj|solutionrelative:authenticationapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0703A548-270E-49C4-A8F0-608CCA25C367}|AuthenticationApp\\AuthenticationApp.csproj|d:\\studentportal\\authenticationapp\\authenticationapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0703A548-270E-49C4-A8F0-608CCA25C367}|AuthenticationApp\\AuthenticationApp.csproj|solutionrelative:authenticationapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0703A548-270E-49C4-A8F0-608CCA25C367}|AuthenticationApp\\AuthenticationApp.csproj|d:\\studentportal\\authenticationapp\\authenticationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0703A548-270E-49C4-A8F0-608CCA25C367}|AuthenticationApp\\AuthenticationApp.csproj|solutionrelative:authenticationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0703A548-270E-49C4-A8F0-608CCA25C367}|AuthenticationApp\\AuthenticationApp.csproj|d:\\studentportal\\authenticationapp\\authenticationapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0703A548-270E-49C4-A8F0-608CCA25C367}|AuthenticationApp\\AuthenticationApp.csproj|solutionrelative:authenticationapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0703A548-270E-49C4-A8F0-608CCA25C367}|AuthenticationApp\\AuthenticationApp.csproj|d:\\studentportal\\authenticationapp\\authenticationapp\\service\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0703A548-270E-49C4-A8F0-608CCA25C367}|AuthenticationApp\\AuthenticationApp.csproj|solutionrelative:authenticationapp\\service\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\studentPortal\\AuthenticationApp\\AuthenticationApp\\Program.cs",
+              "RelativeDocumentMoniker": "AuthenticationApp\\Program.cs",
+              "ToolTip": "D:\\studentPortal\\AuthenticationApp\\AuthenticationApp\\Program.cs",
+              "RelativeToolTip": "AuthenticationApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:08:57.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\studentPortal\\AuthenticationApp\\AuthenticationApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\studentPortal\\AuthenticationApp\\AuthenticationApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AuthenticationApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T08:59:40.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\studentPortal\\AuthenticationApp\\AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\studentPortal\\AuthenticationApp\\AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAkwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:26:50.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\studentPortal\\AuthenticationApp\\AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\studentPortal\\AuthenticationApp\\AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T08:11:30.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\studentPortal\\AuthenticationApp\\AuthenticationApp\\Service\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AuthenticationApp\\Service\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\studentPortal\\AuthenticationApp\\AuthenticationApp\\Service\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AuthenticationApp\\Service\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:13:42.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
